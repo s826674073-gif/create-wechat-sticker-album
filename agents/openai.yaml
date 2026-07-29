@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信表情专辑生成"
+  short_description: "根据主题或逐条内容策划、生成并校验可上传的微信静态表情专辑素材包"
+  default_prompt: "使用 $create-wechat-sticker-album 根据我的主题制作一套微信静态表情专辑。"
